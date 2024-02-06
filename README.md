@@ -1,4 +1,4 @@
-# # DBS Foundation Coding Camp 2024
+# DBS Foundation Coding Camp 2024
 
 This repository contains the final project code from the Dicoding Academy class held by DBS Bank Foundation X Dicoding Indonesia.
 
